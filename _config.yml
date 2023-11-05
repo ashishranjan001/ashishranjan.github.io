@@ -3,7 +3,7 @@ title               : Ashish Ranjan
 description         : >-
                       I am a highly motivated Data Engineer working in the field of Big Data, Cloud and Artificial Intelligence.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : ashishranjan001/portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : ashishranjan001/ashishranjan001.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
