@@ -1,12 +1,10 @@
 ### Site Settings ###
 title               : Ashish Ranjan
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am a highly motivated Data Engineer working in the fields of Big Data, Cloud and Artificial Intelligence.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ashishranjan001/portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+#remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Ashish Ranjan
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : ashishranjan001
+  image             : https://avatars.githubusercontent.com/u/46624856?s=400&u=0aa93f61c4f555cfbbfc14f8e1531cbd3d342137&v=4
+# behance           : ashishranjan001
 # dribbble          : your_username
   email             : ashishranjan6282@gmail.com
 # facebook          : your_username
