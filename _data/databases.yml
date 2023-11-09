@@ -1,0 +1,11 @@
+- name: Snowflake
+  percentage:
+  color:
+
+- name: Oracle
+  percentage:
+  color:
+
+- name: MySQL
+  percentage:
+  color:

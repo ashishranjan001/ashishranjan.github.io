@@ -1,0 +1,7 @@
+- name: AWS
+  percentage: 80
+  color:
+
+- name: Azure
+  percentage: 75
+  color:
