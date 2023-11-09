@@ -1,10 +1,10 @@
 - title: Specialist Programmer - Data Engineer, Infosys Limited, Hyderabad
   from: Sepember, 2020
   to: present
-  description: • Worked on two migration projects from Hadoop and SQL Server respectively to Snowflake while using Data Vault 2.0 principles, resulting in improved availability and increased performance by 50%.
-  • Developed Data Orchestration pipelines in two projects using Snowflake Stored Procedures, dbt, AWS EC2, Step Functions, Lambda, and Glue to handle terabytes of data from multiple sources such as Oracle, SAP BW, AWS S3 buckets, and Azure Blob Containers.
-  • Displayed out-of-the-box thinking to solve critical problems impacting 20% of users that contribute 50% of data.
-  • Created an automated unit testing process which reduced the time taken for testing by 70%.
+  description: Worked on two migration projects from Hadoop and SQL Server respectively to Snowflake while using Data Vault 2.0 principles, resulting in improved availability and increased performance by 50%.
+  Developed Data Orchestration pipelines in two projects using Snowflake Stored Procedures, dbt, AWS EC2, Step Functions, Lambda, and Glue to handle terabytes of data from multiple sources such as Oracle, SAP BW, AWS S3 buckets, and Azure Blob Containers.
+  Displayed out-of-the-box thinking to solve critical problems impacting 20% of users that contribute 50% of data.
+  Created an automated unit testing process which reduced the time taken for testing by 70%.
 
 - title: Intern, L&T Technology Services, Bangalore
   from: January, 2020
