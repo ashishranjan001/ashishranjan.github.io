@@ -17,9 +17,9 @@ I am a highly motivated Data Engineer with over 3 years of professional experien
 </div>
 
 <div class="row">
-{% include about/timeline.html % title="Professional Experience" source=site.data.professional-experience}
+{% include about/timeline.html % title="Professional Experience" source=site.data.professional-experience %}
 </div>
 
 <div class="row">
-{% include about/timeline.html % title="Education" source=site.data.education}
+{% include about/timeline.html % title="Education" source=site.data.education %}
 </div>
