@@ -10,9 +10,13 @@
 			  <h2>{{ item.title }}</h2>
 			  <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
 			  <ul>
-			  {% for descitem in item.description %}
-				<li>{{ descitem }}</li>
-			  {% endfor %}
+			  {% if item.description.size > 1 %}
+				  {% for descitem in item.description %}
+					<li>{{ descitem }}</li>
+				  {% endfor %}
+			  {% else %}
+				<p>{{ item.description }}</p>
+			  {% endif %}
 			  </ul>
 			</div>
 		  </div>
