@@ -1,11 +1,11 @@
 - name: Snowflake
-  percentage:
+  percentage: 95
   color:
 
 - name: Oracle
-  percentage:
+  percentage: 90
   color:
 
 - name: MySQL
-  percentage:
+  percentage: 80
   color:
